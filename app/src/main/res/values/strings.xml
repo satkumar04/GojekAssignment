@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trending</string>
+    <string name="loading">Please wait ...</string>
+    <string name="empty_list">oops, List is empty.</string>
+    <string name="error_state_msg">Something went wrong..</string>
+    <string name="network_fun_msg">An alien is probably blocking your signal.</string>
+    <string name="btn_retry">RETRY</string>
+</resources>
